@@ -335,6 +335,10 @@ main {
   border-radius: 20px;
 }
 
+.logo-name-link {
+  color:hsl(0, 0%, 100%);
+}
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
